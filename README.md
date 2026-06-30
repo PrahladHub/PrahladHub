@@ -1,15 +1,17 @@
 # Hi 👋, I'm Prahlad Mahato
 
-💻 AI Developer  
-🔐 Cybersecurity Enthusiast  
-🚀 Open Source Learner  
+💻 AI & Web Developer
+🔐 Cybersecurity Enthusiast
+🚀 Open Source Contributor
 🌱 Always Learning
 
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript
-- Python
+## 🛠 Tech Stack
+• HTML
+• CSS
+• JavaScript
+• Python
 
-## 📫 Connect
+## 🎯 Focus
+Cybersecurity • AI • Web Development
+
 ⭐ Thanks for visiting my profile!
